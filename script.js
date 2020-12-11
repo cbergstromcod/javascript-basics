@@ -1,4 +1,4 @@
-window.onload = () => {
+window.onload = function () {
   // console.log("window is fully loaded");
 
   // set variables
